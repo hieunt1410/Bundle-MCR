@@ -1,0 +1,14 @@
+!*data/steam/*
+!*.py 
+!*.ipynb
+*__pycache__*
+demo/*
+*/.glove/*
+*.pt
+.DS_Store
+*.save/*
+*.pyc
+*/.save/*
+*.json.gz 
+plotting/*
+*reference*
